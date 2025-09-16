@@ -53,3 +53,4 @@ remoteConfig:
     key: Authorization
     required: true
     sensitive: true
+    hostname: HostName
